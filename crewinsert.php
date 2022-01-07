@@ -8,15 +8,15 @@ error_reporting(0);
 <body style="background-color:powderblue;" >
 <center>
 <form action = "" method = "GET">
-Crew id  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="Crewid" value = ""> <br><br>
-Air craft id  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="pcraft" value = ""><br><br>
-CRID  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="crid" value = ""><br><br>
+Crew id  <input type = "text" name ="Crewid" value = ""> <br><br>
+Air craft id  <input type = "text" name ="pcraft" value = ""><br><br>
+CRID  <input type = "text" name ="crid" value = ""><br><br>
 Passenger aircraft id <input type = "text" name ="pcid" value = ""><br><br>
-Co-Pilot&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="cop" value = ""><br><br>
+Co-Pilot<input type = "text" name ="cop" value = ""><br><br>
 
 
-flight attendants&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="fla" value = ""><br><br>
-Pilot&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<input type = "text" name ="pilot" value = ""><br><br>
+flight attendants<input type = "text" name ="fla" value = ""><br><br>
+Pilot<input type = "text" name ="pilot" value = ""><br><br>
 
 
 
